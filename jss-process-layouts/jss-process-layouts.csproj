@@ -179,7 +179,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="App_Config\Include\JssImport\jss-process-layouts.processor.config" />
+    <Content Include="App_Config\Include\JssImport\jss-process-layouts.config" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
